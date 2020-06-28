@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Wong Jian Zhi</h1>
-<h3>
-    <a href='mailto:johnnywong5657@gmail.com'>johnnywong5657@gmail.com</a>
-    <br>
-    <a href='https://www.linkedin.com/in/jian-zhi-wong-837858175/'>LinkedIn</a>
-    <br>
-    Selangor, Malaysia
-</h3>
+---
+layout: default
+---
 
-<h2>Summary</h2>
-<p>
-    Individual with both mathematics and programming background seeking opportunities to utilize and further enhance knowledge in Analytics, Statistics, Visualization, Mathematics and Programming.
-    <br><br><br>
-    <a href='https://github.com/jianzhiw'>Click me to get to know more about my github projects</a>
-    <br><br><br>
-    <a href='https://drive.google.com/file/d/1F-4vICBQ5XNFhSE-ikANPkDPPmCYzj2j/view?usp=sharing'>Resume</a>
-</p>
-</body>
-</html>
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
