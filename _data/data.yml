@@ -82,33 +82,32 @@ education:
 #          - Bullet point
 
 experiences:
-    - role: Performance Management Executive
-      time: September 2019 - Present
+    - role: Data Analyst, Finance
+      time: September 2020 - Present
+      company: A.W. Faber Castell (M) Sdn Bhd
+      details: |
+        - Performed data analysis using Power BI
+        - Participated and Researched in Sales Forecasting using Machine Learning and Python
+        - Participated in Image Recognition Defect Detection in collaboration with AWS
+
+    - role: Performance Management Executive, BPO
+      time: September 2019 - September 2020
       company: DHL Global Forwarding (M) Sdn Bhd
       details: |
-        1. Reporting & KPI Dashboard Developer
-         - Built 3 dashboards,16 sheets of customer reporting for CS and BIlling Team in Malaysia and Singapore
-         - Built Invoice Timeliness and Accuracy KPI Dashboard for Billing Team and Finance
-         - Tools used: Qlik Sense
-
-        2. Predictive Analytics & Machine Learning 
-         - Generate weekly report using Python and Machine Learning to identify wrong code usage in shipments to prevent revenue leakage
-
-        3. Data Analysis and Ad-hoc Data Queries
-         - Prepare required data from reports/dashboards and analysed and provide output in Excel Pivot Table
-
-        4. Automation & Macros
-         - Created VBA Scripts and Power Query to automate repetitive task
-
-        5. Data Quality & Governance
-         - Created logic templates to detect inconsistent logic usage in the system    
+        - Built 3 reporting dashboards for Customer Service and Billing Team for Malaysia and Singapore internal users using Qlik Sense
+        - Built Invoice Accuracy and Timeliness Dashboard for Billing Team and Finance for Malaysia and Singapore internal users using Qlik Sense
+        - Created a weekly predictive modeling report using Python and Machine Learning to identify wrong code usage to reduce revenue leakage
+        - Created 3 Excel VBA and Macro to automate repetitive task for various reports
+        - Created Logic Templates to detect inconsistant data entry by users
+        - Organized Excel Macro training to internal users in Malaysia   
     
-    - role: Product Capacity Management Internship
+    - role: Intern, Product Capacity Management
       time: May 2019 - August 2019
       company: DHL Global Forwarding (M) Sdn Bhd
       details: |
-        - Data Processing and Transformation using SQL, Microsoft Excel, Power Query, Power Pivot, Power BI, Python
-        - Automation and Macros using VBA and UiPath
+        - Created Data Processing and Transformation using SQL, Microsoft Excel, Power Query, Pivot Table, Power BI
+        - Created Macro using UiPath for automated web entry
+        - Created VBA Macro for Outlook to generate and store data
         
 #projects:
 #    title: Projects
