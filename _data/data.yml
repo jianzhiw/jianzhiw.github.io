@@ -51,15 +51,26 @@ education:
       university: Help Academy
       time: 2015 - 2016
 
+    - degree: SPM
+      university: SMK Seafield
+      time: 2010 - 2014
+
 
 experiences:
+    - role: Power BI DevOps Consultant
+      time: December 2020 - Present
+      company: Just-BI Sdn Bhd
+      details: |
+        - Resolving Incidents and Enhancements on various dashboards created by project team in Power BI
+
     - role: Data Analyst, Finance
-      time: September 2020 - Present
+      time: September 2020 - December 2020
       company: A.W. Faber Castell (M) Sdn Bhd
       details: |
-        - Performed data analysis using Power BI
-        - Participated and Researched in Sales Forecasting using Machine Learning and Python
-        - Participated in Image Recognition Defect Detection in collaboration with AWS
+        - Performed data analysis using Power BI for Finance Department
+        - Created simple E-Commerce Dashboard using Power BI for Marketing Department
+        - Participated and Researched in Sales Forecasting and Customer Clustering using Machine Learning and Python for Sales Department
+        - Participated in Image Recognition Defect Detection in collaboration with AWS for Operational Department
 
     - role: Performance Management Executive, BPO
       time: September 2019 - September 2020
@@ -67,10 +78,10 @@ experiences:
       details: |
         - Built 3 reporting dashboards for Customer Service and Billing Team for Malaysia and Singapore internal users using Qlik Sense
         - Built Invoice Accuracy and Timeliness Dashboard for Billing Team and Finance for Malaysia and Singapore internal users using Qlik Sense
-        - Created a weekly predictive modeling report using Python and Machine Learning to identify wrong code usage to reduce revenue leakage
+        - Introduced a weekly predictive modeling report using Python and Machine Learning to identify wrong code usage to reduce revenue leakage
         - Created 3 hybrid Excel VBA and Power Query macro to automate repetitive task for various reports
-        - Created Logic Templates to detect inconsistant data entry by users
-        - Organized Excel Macro training to internal users in Malaysia   
+        - Created Excel Logic Templates to detect inconsistant data entry by users
+        - Organized "Introduction to Excel Macro" training to internal users in Malaysia   
     
     - role: Intern, Product Capacity Management
       time: May 2019 - August 2019
@@ -102,9 +113,6 @@ skills:
 
       - name: VBA
         level: 70%
-
-      - name: Ruby on Rails & Jekyll & Web Development
-        level: 50%
 
 footer: >
     Created by using Jekyll, Ruby on Rails, HTML.
