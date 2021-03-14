@@ -45,14 +45,20 @@ education:
         - Courses included Problem Solving and Programming, Applied Statistics, Operations Research, Financial Mathematics
         - Scored Band 5 in Malaysian University English Test (MUET)
         - Final Year Project: On the Effectiveness of Technical Analysis, Time Series Analysis and Machine Learning Approaches in Stock Market Movement Direction
+        - 2nd Runner-up in DOSM Datathon 2019
         
     - degree: A-Level
       university: Help Academy
       time: 2015 - 2016
+      details: |
+        - Scored 1A and 3B
 
     - degree: SPM
       university: SMK Seafield
       time: 2010 - 2014
+      details: |
+        - Scored 8A and 2B
+        - 1st Runner-up in Help University National Mathematics Marathon 2014
 
 
 experiences:
