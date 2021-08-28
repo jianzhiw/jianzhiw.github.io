@@ -99,6 +99,12 @@ experiences:
         - Created Macro using UiPath for automated web entry
         - Created VBA Macro for Outlook to generate and store data
         
+project:
+    assignments:
+      - title: Malaysia Covid Dashboard
+        link: "https://app.powerbi.com/view?r=eyJrIjoiNTVlNmU0YTEtMWZkNi00MzQ3LThkYjgtNmI5OWQ3ZGIzZmM4IiwidCI6IjYyZjhiNmM3LWZiZGQtNGZiMC04ZjViLTY2ZGYwZmM3MzZmMSIsImMiOjEwfQ%3D%3D&pageName=ReportSection"
+        tagline: "Power BI Covid Dashboard using data from MoH and CITF GitHub"
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -107,20 +113,20 @@ skills:
       - name: Microsoft Suite
         level: 90%
 
+      - name: Power BI
+        level: 90%
+
       - name: Analyst
         level: 85%
 
       - name: Problem Solving & Critical Thinking
         level: 85%
-
-      - name: BI Tools (QlikSense, Power BI)
-        level: 80%
         
-      - name: Python
-        level: 75%
-
       - name: VBA
-        level: 70%
+        level: 65%
+
+      - name: Python
+        level: 50%
 
 footer: >
     Created by using Jekyll, Ruby on Rails, HTML.
