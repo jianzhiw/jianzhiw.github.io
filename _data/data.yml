@@ -100,6 +100,9 @@ experiences:
         - Created VBA Macro for Outlook to generate and store data
         
 project:
+    title: Projects
+    intro: >
+      List of projects
     assignments:
       - title: Malaysia Covid Dashboard
         link: "https://app.powerbi.com/view?r=eyJrIjoiNTVlNmU0YTEtMWZkNi00MzQ3LThkYjgtNmI5OWQ3ZGIzZmM4IiwidCI6IjYyZjhiNmM3LWZiZGQtNGZiMC04ZjViLTY2ZGYwZmM3MzZmMSIsImMiOjEwfQ%3D%3D&pageName=ReportSection"
