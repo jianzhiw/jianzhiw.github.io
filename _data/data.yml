@@ -66,10 +66,13 @@ experiences:
       time: December 2020 - Present
       company: Just-BI Sdn Bhd
       details: |
-        - Resolving Incidents and Enhancements on various dashboards created by project team in Power BI
-        - Provisioning access to Power BI
-        - Providing 3 level of Power BI Training to clients
+        - Resolving Incidents related to Power BI such as access provisioning, data source gateway settings, bug fixing in formatting, charts, calculated table and DAX
+        - Working on Enhancement related to Power BI including adding new visuals, introducing new DAX formula, connecting to new data sources or tables in database
+        - Providing 3 different level of Power BI Training to clients and advising best practices for Power BI
         - Migrating and rebuilding SAP Lumira Dashboard into Power BI
+        - Updating SQL script locating in Azure Synapse via SSMS and Azure DevOps
+        - Collecting technical and functional requirements from stakeholders for Power BI
+        - Documentation of existing Power BI dashboards
 
     - role: Data Analyst, Finance
       time: September 2020 - December 2020
