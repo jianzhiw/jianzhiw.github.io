@@ -62,45 +62,57 @@ education:
 
 
 experiences:
+    - role: Finance Data Analyst
+      time: May 2022 - Present
+      company: Kering Group
+      details: |
+        - Clean existing Power BI dataset by migrating Power Query steps into Native Query
+        - Resolving incidents and enhancements request related to Power BI
+        - Build Finance related dashboards
+        - Create SQL scripts in Google BigQuery
+        - Push for process improvement within department for best practices in Power BI development and SQL scripting
+        - Assist on Python application development revolving around Power BI
+
     - role: Power BI DevOps Consultant
-      time: December 2020 - Present
+      time: December 2020 - May 2022
       company: Just-BI Sdn Bhd
       details: |
-        - Resolving Incidents related to Power BI such as access provisioning, data source gateway settings, bug fixing in formatting, charts, calculated table and DAX
-        - Working on Enhancement related to Power BI including adding new visuals, introducing new DAX formula, connecting to new data sources or tables in database
-        - Providing 3 different level of Power BI Training to clients and advising best practices for Power BI
-        - Migrating and rebuilding SAP Lumira Dashboard into Power BI
-        - Updating SQL script locating in Azure Synapse via SSMS and Azure DevOps
-        - Collecting technical and functional requirements from stakeholders for Power BI
+        - Resolve Incidents related to Power BI such as access provisioning, data source gateway settings, bug fixing in formatting, charts, calculated table and DAX
+        - Work on Enhancement related to Power BI including adding new visuals, introducing new DAX formula, connecting to new data sources or tables in database
+        - Build dashboards from scratch for departments eg. Digital Marketing, Sales etc 
+        - Provide 3 different level of Power BI Training to clients and advising best practices for Power BI
+        - Migrate and rebuild SAP Lumira Dashboard into Power BI
+        - Update SQL script locating in Azure Synapse via SSMS and Azure DevOps
+        - Collect technical and functional requirements from stakeholders for Power BI
         - Documentation of existing Power BI dashboards
 
     - role: Data Analyst, Finance
       time: September 2020 - December 2020
       company: A.W. Faber Castell (M) Sdn Bhd
       details: |
-        - Performed data analysis using Power BI for Finance Department
-        - Created simple E-Commerce Dashboard using Power BI for Marketing Department
-        - Participated and Researched in Sales Forecasting and Customer Clustering using Machine Learning and Python for Sales Department
-        - Participated in Image Recognition Defect Detection in collaboration with AWS for Operational Department
+        - Perform data analysis using Power BI for Finance Department
+        - Create simple E-Commerce Dashboard using Power BI for Marketing Department
+        - Participate and research in Sales Forecasting and Customer Clustering using Machine Learning and Python for Sales Department
+        - Participate in Image Recognition Defect Detection in collaboration with AWS for Operational Department
 
     - role: Performance Management Executive, BPO
       time: September 2019 - September 2020
       company: DHL Global Forwarding (M) Sdn Bhd
       details: |
-        - Built 3 reporting dashboards for Customer Service and Billing Team for Malaysia and Singapore internal users using Qlik Sense
-        - Built Invoice Accuracy and Timeliness Dashboard for Billing Team and Finance for Malaysia and Singapore internal users using Qlik Sense
-        - Introduced a weekly predictive modeling report using Python and Machine Learning to identify wrong code usage to reduce revenue leakage
-        - Created 3 hybrid Excel VBA and Power Query macro to automate repetitive task for various reports
-        - Created Excel Logic Templates to detect inconsistant data entry by users
-        - Organized "Introduction to Excel Macro" training to internal users in Malaysia   
+        - Build 3 reporting dashboards for Customer Service and Billing Team for Malaysia and Singapore internal users using Qlik Sense
+        - Build Invoice Accuracy and Timeliness Dashboard for Billing Team and Finance for Malaysia and Singapore internal users using Qlik Sense
+        - Introduce a weekly predictive modeling report using Python and Machine Learning to identify wrong code usage to reduce revenue leakage
+        - Create 3 hybrid Excel VBA and Power Query macro to automate repetitive task for various reports
+        - Create Excel Logic Templates to detect inconsistant data entry by users
+        - Organize "Introduction to Excel Macro" training to internal users in Malaysia   
     
     - role: Intern, Product Capacity Management
       time: May 2019 - August 2019
       company: DHL Global Forwarding (M) Sdn Bhd
       details: |
-        - Created Data Processing and Transformation using SQL, Microsoft Excel, Power Query, Pivot Table, Power BI
-        - Created Macro using UiPath for automated web entry
-        - Created VBA Macro for Outlook to generate and store data
+        - Create Data Processing and Transformation using SQL, Microsoft Excel, Power Query, Pivot Table, Power BI
+        - Create Macro using UiPath for automated web entry
+        - Create VBA Macro for Outlook to generate and store data
         
 projects:
     title: Projects
