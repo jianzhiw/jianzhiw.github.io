@@ -127,23 +127,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Microsoft Suite
-        level: 90%
-
       - name: Power BI
         level: 90%
 
-      - name: Analyst
+      - name: SQL
+        level: 90%
+
+      - name: Azure / Google Cloud Platform
         level: 85%
 
       - name: Problem Solving & Critical Thinking
         level: 85%
         
-      - name: VBA
+      - name: Automation
         level: 65%
 
       - name: Python
-        level: 50%
+        level: 60%
 
 footer: >
     Created by using Jekyll, Ruby on Rails, HTML.
