@@ -33,19 +33,18 @@ career-profile:
     summary: |
         Data Enthuasist, Data Analyst, BI Developer
         
-        Individual with both mathematics and programming background seeking opportunities to utilize and further enhance
-        knowledge in Analytics, Statistics, Mathematics and Programming.
-
+        A skilled professional with a strong background in mathematics and programming, seeking opportunities 
+        to leverage and expand knowledge in Data and Analytics.
 education:
     - degree: Bachelor of Science in Management Mathematics with Computing
       university: Tunku Abdul Rahman University College
       time: 2016 - 2019
       details: |
-        - Awarded with Book Prize, President List and Dean List with CGPA of 3.92
-        - Courses included Problem Solving and Programming, Applied Statistics, Operations Research, Financial Mathematics
-        - Scored Band 5 in Malaysian University English Test (MUET)
-        - Final Year Project: On the Effectiveness of Technical Analysis, Time Series Analysis and Machine Learning Approaches in Stock Market Movement Direction
-        - 2nd Runner-up in DOSM Datathon 2019
+        - Received Book Prize, President's List, and Dean's List awards with a CGPA of 3.92
+        - Completed coursework in Problem Solving and Programming, Applied Statistics, Operations Research, and Financial Mathematics
+        - Achieved a Band 5 score in the Malaysian University English Test (MUET)
+        - Conducted a final year project on the effectiveness of Technical Analysis, Time Series Analysis, and Machine Learning Approaches in predicting stock market movement direction
+        - Earned 2nd runner-up in the DOSM Datathon 2019 competition
         
     - degree: A-Level
       university: Help Academy
@@ -66,61 +65,64 @@ experiences:
       time: May 2022 - Present
       company: Kering Group
       details: |
-        - Clean existing Power BI dataset by migrating Power Query steps into Native Query
-        - Resolving incidents and enhancements request related to Power BI
-        - Build Finance related dashboards
-        - Create SQL scripts in Google BigQuery
-        - Push for process improvement within department for best practices in Power BI development and SQL scripting
-        - Assist on Python application development revolving around Power BI
+        - Transferring Power Query steps to Native Query to modernize and clean up legacy Power BI datasets
+        - Addressing incidents and fulfilling enhancement requests for existing Power BI datasets and reports
+        - Developing and maintaining multiple finance-related dashboards for various departments and countries across Asia Pacific, tailored to clients' needs
+        - Generating end-user Power BI datasets for self-service reporting using Analysis in Excel
+        - Maintaining comprehensive documentation for all datasets
+        - Improving SQL scripts in Google BigQuery for Power BI datasets
+        - Advocating for process enhancements and implementing best practices for Power BI development and SQL scripting within the department
+        - Contributed to the development of Python applications related to Power BI
+        - Explored a variety of third-party tools for Power BI, including DAX Studio, Tabular Editor, Measure Killer, and PBI Tools, with the aim of enhancing the performance of the Power BI dataset
 
     - role: Power BI DevOps Consultant
       time: December 2020 - May 2022
       company: Just-BI Sdn Bhd
       details: |
-        - Resolve Incidents related to Power BI such as access provisioning, data source gateway settings, bug fixing in formatting, charts, calculated table and DAX
-        - Work on Enhancement related to Power BI including adding new visuals, introducing new DAX formula, connecting to new data sources or tables in database
-        - Build dashboards from scratch for departments eg. Digital Marketing, Sales etc 
-        - Provide 3 different level of Power BI Training to clients and advising best practices for Power BI
-        - Migrate and rebuild SAP Lumira Dashboard into Power BI
-        - Update SQL script locating in Azure Synapse via SSMS and Azure DevOps
-        - Collect technical and functional requirements from stakeholders for Power BI
-        - Documentation of existing Power BI dashboards
-
-    - role: Data Analyst, Finance
-      time: September 2020 - December 2020
-      company: A.W. Faber Castell (M) Sdn Bhd
-      details: |
-        - Perform data analysis using Power BI for Finance Department
-        - Create simple E-Commerce Dashboard using Power BI for Marketing Department
-        - Participate and research in Sales Forecasting and Customer Clustering using Machine Learning and Python for Sales Department
-        - Participate in Image Recognition Defect Detection in collaboration with AWS for Operational Department
+        - Resolved a range of Power BI issues, including problems with formatting, chart discrepancies, DAX formula errors, inconsistencies in calculated tables, and data irregularities
+        - Managed Power BI Workspace and Tenant administration duties, including access provision and data source gateway setup
+        - Implemented Power BI enhancements such as incorporating new visuals, DAX formulas, and database connections
+        - Created new dashboards from the ground up for various departments such as Digital Marketing, Operations and Sales
+        - Conducted three levels of Power BI training for clients and advised on best practices for Power BI
+        - Migrated and reconstructed a SAP Lumira Dashboard into Power BI
+        - Updated SQL scripts on Azure Synapse using SSMS and Azure DevOps
+        - Gathered technical and functional requirements from stakeholders for Power BI projects
+        - Maintained comprehensive documentation for all datasets
 
     - role: Performance Management Executive, BPO
       time: September 2019 - September 2020
       company: DHL Global Forwarding (M) Sdn Bhd
       details: |
-        - Build 3 reporting dashboards for Customer Service and Billing Team for Malaysia and Singapore internal users using Qlik Sense
-        - Build Invoice Accuracy and Timeliness Dashboard for Billing Team and Finance for Malaysia and Singapore internal users using Qlik Sense
-        - Introduce a weekly predictive modeling report using Python and Machine Learning to identify wrong code usage to reduce revenue leakage
-        - Create 3 hybrid Excel VBA and Power Query macro to automate repetitive task for various reports
-        - Create Excel Logic Templates to detect inconsistant data entry by users
-        - Organize "Introduction to Excel Macro" training to internal users in Malaysia   
+        - Developed three reporting dashboards using Qlik Sense for internal users of the Customer Service and Billing teams in Malaysia and Singapore
+        - Created an Invoice Accuracy and Timeliness Dashboard for the Billing Team and Finance for internal users in Malaysia and Singapore using Qlik Sense
+        - Implemented a weekly predictive modeling report using Python and Machine Learning to identify instances of incorrect code usage, thereby reducing revenue leakage
+        - Automated repetitive tasks for various reports by creating three hybrid Excel VBA and Power Query macros
+        - Designed Excel Logic Templates to identify inconsistent data entry by users
+        - Conducted "Introduction to Excel Macro" training sessions for internal users in Malaysia  
     
     - role: Intern, Product Capacity Management
       time: May 2019 - August 2019
       company: DHL Global Forwarding (M) Sdn Bhd
       details: |
-        - Create Data Processing and Transformation using SQL, Microsoft Excel, Power Query, Pivot Table, Power BI
-        - Create Macro using UiPath for automated web entry
-        - Create VBA Macro for Outlook to generate and store data
+        - Utilized SQL, Microsoft Excel, Power Query, Pivot Table, and Power BI to process and transform data
+        - Developed an automated web entry process using UiPath macros
+        - Designed a VBA macro for Outlook that generates and stores data
         
 projects:
     title: Projects
     intro: "List of projects"
     assignments:
+      - title: Online Resume
+        link: "https://jianzhiw.github.io"
+        tagline: "Online Resume powered by Github"
+        
       - title: Malaysia Covid Dashboard
         link: "https://app.powerbi.com/view?r=eyJrIjoiNTVlNmU0YTEtMWZkNi00MzQ3LThkYjgtNmI5OWQ3ZGIzZmM4IiwidCI6IjYyZjhiNmM3LWZiZGQtNGZiMC04ZjViLTY2ZGYwZmM3MzZmMSIsImMiOjEwfQ%3D%3D&pageName=ReportSection"
         tagline: "Power BI Covid Dashboard using data from MoH and CITF GitHub"
+      
+      - title: Business Case Study
+        link: "https://app.powerbi.com/view?r=eyJrIjoiOTA0NWJjNjItMjFhNS00NGQxLTlkYTgtN2Q5ZmQxMWZjYmQ2IiwidCI6IjYyZjhiNmM3LWZiZGQtNGZiMC04ZjViLTY2ZGYwZmM3MzZmMSIsImMiOjEwfQ%3D%3D"
+        tagline: "Business Case Study for previous interviews"
 
 
 skills:
