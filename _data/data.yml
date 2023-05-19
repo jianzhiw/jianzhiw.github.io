@@ -147,9 +147,9 @@ skills:
       - name: Python
         level: 60%
 
-footer: >
-    Created by using Jekyll, Ruby on Rails, HTML.
-    <br>
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-    <br>
-    Modified with more <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/jian-zhi-wong-837858175/" target="_blank" rel="nofollow">Wong Jian Zhi</a>
+#footer: >
+#    Created by using Jekyll, Ruby on Rails, HTML.
+#    <br>
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#    <br>
+#    Modified with more <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/jian-zhi-wong-837858175/" target="_blank" rel="nofollow">Wong Jian Zhi</a>
