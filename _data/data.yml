@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Wong Jian Zhi (Johnny)
-    tagline: Data Enthuasist
+    tagline: Data Enthusiast | Data Analytics | Power BI | SQL
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -65,6 +65,7 @@ experiences:
       time: May 2022 - Present
       company: Kering Group
       details: |
+        - Providing team members and junior colleagues technical support in SQL and Power BI related matters
         - Transferring Power Query steps to Native Query to modernize and clean up legacy Power BI datasets
         - Addressing incidents and fulfilling enhancement requests for existing Power BI datasets and reports
         - Developing and maintaining multiple finance-related dashboards for various departments and countries across Asia Pacific, tailored to clients' needs
@@ -80,6 +81,7 @@ experiences:
       company: Just-BI Sdn Bhd
       details: |
         - Resolved a range of Power BI issues, including problems with formatting, chart discrepancies, DAX formula errors, inconsistencies in calculated tables, and data irregularities
+        - Designated as the go-to person for Power BI related subjects
         - Managed Power BI Workspace and Tenant administration duties, including access provision and data source gateway setup
         - Implemented Power BI enhancements such as incorporating new visuals, DAX formulas, and database connections
         - Created new dashboards from the ground up for various departments such as Digital Marketing, Operations and Sales
