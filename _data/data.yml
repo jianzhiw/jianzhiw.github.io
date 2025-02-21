@@ -61,8 +61,32 @@ education:
 
 
 experiences:
+    - role: Data Engineer
+      time: Jul 2024 - Current
+      company: Domino's Pizza Enterprise Global Services
+      details: |
+        - Developed and maintained data pipelines in Snowflake to ingest data from diverse sources, ensuring high performance and scalability
+        - Designed and optimized data marts within Snowflake, adhering to star schema best practices to support advanced analytics and enterprise-wide insights
+        - Updated and managed Power BI datasets and reports, enabling all corporate employees to efficiently perform daily operational tasks
+        - Supported the BI Operations team to resolve issues and improve processes as needed
+        - Provided technical support to team members, fostering skill development and enhancing project delivery
+        - Offered guidance to other departments on BI-related queries, facilitating better decision-making and interdepartmental collaboration
+        - Proposed and implemented innovative enhancements to improve task efficiency and streamline workflows for Power BI and the BI Operations team
+        - Migrated Power BI Paginated Report data sources from SSAS Cube into Snowflake, modernizing reporting infrastructure
+        - Implemented customer attributes to define and segment target audiences for Customer Journey analytics, driving tailored engagement strategies and actionable insights
+
+
+    - role: Senior Finance Data Analyst
+      time: Jan 2024 - Jun 2024
+      company: Kering Group
+      details: |
+        - Provided technical guidance to team members on Power BI and SQL, ensuring best practices and improving overall project efficiency
+        - Designed and developed Finance Data Products leveraging DBT (Data Build Tool) and GitHub
+        - Played a key role in the recruitment process by interviewing and assessing potential candidates,
+        - Resolved ad hoc issues in production dashboards, maintaining operational continuity
+
     - role: Finance Data Analyst
-      time: May 2022 - Present
+      time: May 2022 - Dec 2023
       company: Kering Group
       details: |
         - Providing team members and junior colleagues technical support in SQL and Power BI related matters
