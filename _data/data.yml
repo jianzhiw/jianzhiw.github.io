@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Wong Jian Zhi (Johnny)
-    tagline: Data Enthusiast | Data Analytics | Power BI | SQL
+    tagline: Data Engineer | SQL | Power BI | Cloud Computing
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     phone:
     linkedin: jian-zhi-wong-837858175
     github: jianzhiw
-    twitter: '@jianzhiwong'
+    twitter: 
 
 
     languages:
@@ -31,10 +31,8 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-        Data Enthuasist, Data Analyst, BI Developer
-        
-        A skilled professional with a strong background in mathematics and programming, seeking opportunities 
-        to leverage and expand knowledge in Data and Analytics.
+        Skilled Data Engineer and Business Intelligence professional with over five years of experience, with specialization in data pipeline development, BI reporting, and data architecture. 
+        Solid background in designing and maintaining scalable end-to-end data solutions, leveraging tools like Snowflake, Power BI, Azure, GCP, GitHub and Python.
 education:
     - degree: Bachelor of Science in Management Mathematics with Computing
       university: Tunku Abdul Rahman University College
@@ -74,6 +72,9 @@ experiences:
         - Proposed and implemented innovative enhancements to improve task efficiency and streamline workflows for Power BI and the BI Operations team
         - Migrated Power BI Paginated Report data sources from SSAS Cube into Snowflake, modernizing reporting infrastructure
         - Implemented customer attributes to define and segment target audiences for Customer Journey analytics, driving tailored engagement strategies and actionable insights
+        - Re-engineered data pipelines, resulting in monthly cost savings exceeding 1,000 USD
+        - Led experiments on new Proof of Concepts (POCs), including GitHub CI/CD for Power BI and Snowflake, Master Data Management with Streamlit, and Power BI email automation
+        - Managed and co-led multiple concurrent projects
 
 
     - role: Senior Finance Data Analyst
@@ -159,10 +160,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Power BI
+      - name: SQL
         level: 90%
 
-      - name: SQL
+      - name: Power BI
         level: 90%
 
       - name: Azure / Google Cloud Platform
@@ -171,11 +172,8 @@ skills:
       - name: Problem Solving & Critical Thinking
         level: 85%
         
-      - name: Automation
-        level: 65%
-
       - name: Python
-        level: 60%
+        level: 70%
 
 #footer: >
 #    Created by using Jekyll, Ruby on Rails, HTML.
