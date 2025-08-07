@@ -31,8 +31,10 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-        Skilled Data Engineer and Business Intelligence professional with over five years of experience, with specialization in data pipeline development, BI reporting, and data architecture. 
+        Skilled Data Engineer and Business Intelligence professional with over five years of experience, specializing in data pipeline development, BI reporting, and data architecture. 
+        
         Solid background in designing and maintaining scalable end-to-end data solutions, leveraging tools like Snowflake, Power BI, Azure, GCP, GitHub and Python.
+        
 education:
     - degree: Bachelor of Science in Management Mathematics with Computing
       university: Tunku Abdul Rahman University College
@@ -43,20 +45,6 @@ education:
         - Achieved a Band 5 score in the Malaysian University English Test (MUET)
         - Conducted a final year project on the effectiveness of Technical Analysis, Time Series Analysis, and Machine Learning Approaches in predicting stock market movement direction
         - Earned 2nd runner-up in the DOSM Datathon 2019 competition
-        
-    - degree: A-Level
-      university: Help Academy
-      time: 2015 - 2016
-      details: |
-        - Scored 1A and 3B
-
-    - degree: SPM
-      university: SMK Seafield
-      time: 2010 - 2014
-      details: |
-        - Scored 8A and 2B
-        - 1st Runner-up in Help University National Mathematics Marathon 2014
-
 
 experiences:
     - role: Data Engineer
