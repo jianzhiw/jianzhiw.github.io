@@ -47,8 +47,12 @@ education:
         - Earned 2nd runner-up in the DOSM Datathon 2019 competition
 
 experiences:
+    - role: Senior Data Engineer
+      time: Jan 2026 - Current
+      company: Domino's Pizza Enterprise Global Services
+
     - role: Data Engineer
-      time: Jul 2024 - Current
+      time: Jul 2024 - Dec 2025
       company: Domino's Pizza Enterprise Global Services
       details: |
         - Developed and maintained data pipelines in Snowflake to ingest data from diverse sources, ensuring high performance and scalability
